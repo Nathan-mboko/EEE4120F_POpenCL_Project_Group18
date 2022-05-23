@@ -3,6 +3,7 @@
 In Codes folder: 
 
 medianfilter.py - Uses pyopencl to implement a parallelized median filter 
+
 mfGoldenStandard.py - Uses loops and array to implement median filter 
 
 edgeDectection.py - Uses pyopencl module to implement a parallelized edge detection filter. The edge detection is implemented using the Sobel operator 
